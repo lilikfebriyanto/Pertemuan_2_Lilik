@@ -5,7 +5,9 @@ public class HalloBro {
 
     public static void main(String[] args) {
         // Cetak "Hello, World" ke Terminal Windows.
-        //!ganti "Hello World" dengan Nama Anda kemudian Run
+        //1. ganti "Hello World" dengan Nama Anda kemudian Run
+        //2. Push ke Github
+
         System.out.println("Hello, World");
     }
 
